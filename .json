@@ -1,18 +1,18 @@
 {
     "urls": [
-       {"url":"https://raw.githubusercontent.com/xiaoyaoAAAA/Z/main/.json","name": "无痕线路"}
+       {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaoyaoAAAA/Z/main/.json","name": "无痕线路"}
       ,
        
         {
-          "url":"https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/18live.json",
+          "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/18live.json",
           "name":"花花世界"
         },
         {
-          "url":"https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt",
+          "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt",
            "name":"蜂蜜"
         },
         {
-          "url":"https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/19.json",
+          "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/19.json",
            "name":"蜂蜜在线"
         },
      {
