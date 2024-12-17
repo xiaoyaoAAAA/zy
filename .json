@@ -1,50 +1,50 @@
 {
     "urls": [
-       {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaoyaoAAAA/Z/main/.json","name": "无痕线路"}
+       {"url":"https://ghp.ci/https://raw.githubusercontent.com/xiaoyaoAAAA/Z/main/.json","name": "无痕线路"}
       ,
        
         {
-          "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/master/papa.json",
+          "url":"https://ghp.ci/https://raw.githubusercontent.com/aliluya1977/TVBox/master/papa.json",
           "name":"花花世界"
         },
         {
-          "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt",
+          "url":"https://ghp.ci/https://raw.githubusercontent.com/SSM0415/apptest/main/avnetwork18x.txt",
            "name":"蜂蜜"
         },
         {
-          "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/19.json",
+          "url":"https://ghp.ci/https://raw.githubusercontent.com/xiongjian83/TvBox/main/18/19.json",
            "name":"蜂蜜在线"
         },
      {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/stanlyshi/tvbox-cfg/refs/heads/master/99188.json",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/stanlyshi/tvbox-cfg/refs/heads/master/99188.json",
       "name": "🔞高天"
     },
     {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/watson1982/CatVodSpider/main/json/adult.json",
+      "url": "https://ghp.ci/raw.githubusercontent.com/watson1982/CatVodSpider/main/json/adult.json",
       "name": "🔞猫影"
     },
     {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
+      "url": "https://ghp.ci/raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
       "name": "🔞二哈"
     },
     {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json",
+      "url": "https://ghp.ci/raw.githubusercontent.com/qirenzhidao/tvbox18/main/adult.json",
       "name": "🔞成人"
     },
     {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
+      "url": "https://ghp.ci/raw.githubusercontent.com/franksun1211/TVBOX/main/fuli.json",
       "name": "🔞大乔"
     },
     {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/wertymarry/tvbox/refs/heads/main/cs.json",
+      "url": "https://ghp.ci/raw.githubusercontent.com/wertymarry/tvbox/refs/heads/main/cs.json",
       "name": "🔞虞姬"
     },
     {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/dalazhi/tvbox/main/18.txt",
+      "url": "https://ghp.ci/raw.githubusercontent.com/dalazhi/tvbox/main/18.txt",
       "name": "🔞dalazhi"
     },
     {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json",
+      "url": "https://ghp.ci/raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json",
       "name": "🔞挺好专享"
     },
    {"url":"https://gh.idayer.com/https://raw.githubusercontent.com/yuanwangokk-1/TV-BOX/main/TV/jsm.json","name":"🔞乐哥特供综合"},
