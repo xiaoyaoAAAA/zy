@@ -2,6 +2,14 @@
     "urls": [
        {"url":"https://gh-proxy.org/https://raw.githubusercontent.com/xiaoyaoAAAA/Z/refs/heads/main/.json","name": "无痕线路"}
       ,
+        {
+      "name": "网络电视（24站）",
+      "url": "https://fastly.jsdelivr.net/gh/rzhnrhjr6j-cloud/tvbox-source-monitor@main/dist/cdn/sources/906b514cd945261a.json"
+    },
+{
+      "name": "豆瓣┃首页 #1（245站）",
+      "url": "https://fastly.jsdelivr.net/gh/rzhnrhjr6j-cloud/tvbox-source-monitor@main/dist/cdn/sources/a90e91094893ca8b.json"
+    },
        
         {
           "url":"https://gh-proxy.org/https://raw.githubusercontent.com/DodgeZhang/tvbox/refs/heads/main/huangju/config.json",
